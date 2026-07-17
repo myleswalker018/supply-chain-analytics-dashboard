@@ -30,9 +30,9 @@ Provides a high-level view of:
 - Products below reorder point
 - Late purchase orders
 
-![Executive Overview](Screenshots/Executive-Overview.png)
+<img width="1522" height="860" alt="Executive-Overview" src="https://github.com/user-attachments/assets/6e30479c-f55e-4604-bdd1-d2f7e1a7b7cb" />
 
-### Supplier Performance
+
 
 Evaluates suppliers using:
 
@@ -43,7 +43,8 @@ Evaluates suppliers using:
 - Supplier ratings
 - Active supplier count
 
-![Supplier Performance](Screenshots/Supplier-Performance.png)
+<img width="1526" height="852" alt="Supplier-Performance" src="https://github.com/user-attachments/assets/4f849d20-6d96-4029-9b74-c2e16493e484" />
+
 
 ### Inventory and Warehouse Performance
 
@@ -56,7 +57,8 @@ Analyzes:
 - Inventory categories
 - Products below reorder point
 
-![Inventory and Warehouse Performance](Screenshots/Inventory-Warehouse-Performance.png)
+<img width="1523" height="857" alt="Inventory-Warehouse-Performance" src="https://github.com/user-attachments/assets/bd057ac8-809a-43f7-a55f-fac6a7f5b931" />
+
 
 ## Database Structure
 
