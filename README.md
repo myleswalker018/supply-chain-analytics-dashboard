@@ -1,3 +1,7 @@
+
+
+
+<img width="2157" height="541" alt="mwfw-banner" src="https://github.com/user-attachments/assets/64c7aec2-e2ad-4855-9d44-f826f0935ac3" />
 # Supply Chain Analytics Dashboard
 
 An end-to-end supply chain analytics solution developed using SQL Server and Power BI. The project analyzes procurement spending, supplier performance, inventory health, warehouse distribution, delivery reliability, and replenishment requirements.
