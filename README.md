@@ -1,4 +1,10 @@
+## Fictional Data Notice
 
+> **Disclaimer**
+>
+> All data used in this project is **100% fictional** and was created solely for educational and portfolio purposes.
+>
+> No real companies, customers, suppliers, financial information, or proprietary business data were used in this project. Any names, values, or scenarios are fictitious and are intended only to demonstrate SQL, data modeling, and Power BI analytics skills.
 
 
 <img width="2157" height="541" alt="mwfw-banner" src="https://github.com/user-attachments/assets/64c7aec2-e2ad-4855-9d44-f826f0935ac3" />
